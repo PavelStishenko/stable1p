@@ -27,7 +27,7 @@ where $P_i$ is an asset price at $i$-th day.
 
 Therefore 10-day proportional returns can be obtained from 1-day series as
 
-$r^{10}_i = \left(\prod_{j=0}^{9} (r^1_{i+j} + 1) \right) - 1$
+$r_{i}^{10} = \left(\prod_{j=0}^{9} (r^1_{i+j} + 1) \right) - 1$
 
 ### Stable distribution
 
